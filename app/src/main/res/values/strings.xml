@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lat1_AKB2_10116081_AsfiaHZ</string>
+    <string name="monitory">Monitory Membantu Anda \n  Mengontrol HP Anak</string>
+    <string name="satu">Kode Keluarga <b> </b></string>
+    <string name="dua">Ketikan Kode Keluarga yang Ayah Bunda miliki disini</string>
+    <string name="tiga">Dengan menekan tombol masuk berarti Anda Menyetujui \n Ketentuan Pengguna <b> dan Kebijakan Data <b> kami</b></b></string>
+    <string name="empat">Belun Punya Kode Keluarga?</string>
+    <string name="NP"><b>Nama Panggilan Kamu</b></string>
+    <string name="UK"><b>Umur Kamu</b></string>
+    <string name="sayhai"><b>Beres! Sekarang Kamu \n udah bisa ngecek \n penggunaan HP mu \n tiap hari buat bantu kamu \n ngatur waktu :)</b></string>
+
+</resources>
